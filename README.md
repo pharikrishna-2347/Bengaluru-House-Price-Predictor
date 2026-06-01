@@ -5,10 +5,10 @@ A Machine Learning-based web application that predicts house prices in Bengaluru
 ---
 
 ## 🚀 Live Demo
+For live testing use this link : -
 
-https://phk-bengaluru-house-price-predictor-b9jmvsmdmgfqxmntmgprnz.streamlit.app/#bengaluru-house-price-predictor
 ```text
-https://your-app-name.streamlit.app
+https://phk-bengaluru-house-price-predictor-b9jmvsmdmgfqxmntmgprnz.streamlit.app/#bengaluru-house-price-predictor
 ```
 
 ---
